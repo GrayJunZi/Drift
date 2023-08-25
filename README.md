@@ -4,7 +4,7 @@ Complete Next.js Developer in 2023
 ---
 Learn Next JS from industry experts using modern best practices. The only Next JS tutorial + projects course you need to learn Next JS, build enterprise-level React applications (like a Netlifx clone!) from scratch and get hired as a Next.js Developer in 2023. Go from Zero To Next.js Mastery.
 
-# 一、介绍
+# 一、介绍(Introduction)
 
 ## 001. 介绍
 
@@ -47,3 +47,19 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 8. 大师项目(Master Project) - 一个Netflix网站克隆，包含`CSS Modules`、`Framer Motion`、`Authentication`、`ISR`、`GraphQL`、`Hasura`、`Production + Deployment`、`Performance`等。
 9. React Hooks
 10. SEO
+
+# 二、Next.js基础(Next.js Fundamentals)
+
+## 003. Next.js基础章节预览
+
+我们需要了解技术为什么存在？它们试图解决什么问题？即使本课程学习完成之后，也能更好地判断事物，并能够构建好您的应用程序。
+
+- 为什么存在Next.js？
+    - React已经被这么多开发人员使用，React在开发人员社区中非常流行。
+- Next.js解决什么问题？它是如何使前端开发变得如此容易的？
+    - Next.js不仅可以构建应用程序的前端，而且还能够构建服务端代码(后端)。
+- 什么时候应该选择Next.js构建项目？什么时候使用React构建项目？
+
+1. 什么是Next.js
+2. 使用Next.js有什么好处
+3. 为什么Next.js如此受欢迎。
