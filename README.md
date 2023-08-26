@@ -120,3 +120,7 @@ Next.js的好处分为以下几点:
 - 预请求资源(Per-fetching assets)
 
 ![性能](resources\images\006\01.png)
+
+## 007. 图像组件
+
+Next.js 的图像组件会根据不同视口的分辨率而加载对应大小的图片。
