@@ -107,3 +107,16 @@ Next.js的好处分为以下几点:
 > 构建领域专业知识体系结构应用程序(Build that domain expertise architecture applications)
 
 ![不同的渲染技术](resources\images\005\02.png)
+
+## 006. 性能
+
+构建高性能应用程序是非常困难的，Next.js处理了很多复杂的事情，所以不必太担心性能问题，有一些助于提高性能的特性是开箱即用的(out of the box)。
+
+以下是Next.js提供的一些有助于提高性能的特性:
+
+- 代码拆分(Code Splitting) - 将您的web应用分成小块(small chunk)，这样您就只能加载当前页面使用的块。
+- 缩小文件(Minifying files) 
+- 图片优化(Image Optimization)
+- 预请求资源(Per-fetching assets)
+
+![性能](resources\images\006\01.png)
