@@ -63,3 +63,9 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 1. 什么是Next.js
 2. 使用Next.js有什么好处
 3. 为什么Next.js如此受欢迎。
+
+## 004. 什么是Next.js
+
+它是一个构建在React之上的框架，允许您在服务器上呈现内容，从而使您能够灵活地构建可伸缩的应用程序。
+
+Next.js被成为生产级React框架，您可以选择在浏览器的客户端上呈现一个页面，但选择在另一个页面的服务器上执行其他操作，Next.js真的很灵活(flexiable)，这就是为什么能够构建真正可伸缩和高性能的应用程序。
