@@ -159,3 +159,19 @@ SEO是搜索引擎优化(Search Engine Optimization)的缩写，本质上是爬�
 ## 010. Next.js为什么流行
 
 Next.js有非常强大的开发人员社区，可以处理很多复杂的事情。而使用React创建应用程序时，需要添加许多不同的包，掌握大量不同领域的知识，比如性能、SEO，而且需要学习很多配置，而在Next.js这些事情将由它处理，我们只关心我们需要做的东西就可以。
+
+# 三、构建第一个Next.js应用 | Coffee Connoisseur
+
+## 011. 项目预览
+
+我们将开发以一个名为咖啡鉴赏家的应用程序，该项目会涵盖所有的基础知识。
+
+![Coffee Connoisseur](resources\images\011\01.png)
+
+商店列表
+
+![商店列表](resources\images\011\02.png)
+
+商店详情
+
+![商店详情](resources\images\011\03.png)
