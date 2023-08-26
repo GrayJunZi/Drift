@@ -18,6 +18,8 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 - 增量静态再生(Increment static regeneration)
 - 水合作用(Hydration)
 
+![学习内容](resources\images\001\01.png)
+
 还将了解到更大的图景: 
 
 - Foursquare API
@@ -48,6 +50,8 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 9. React Hooks
 10. SEO
 
+![课程大纲](resources\images\002\01.png)
+
 # 二、Next.js基础(Next.js Fundamentals)
 
 ## 003. Next.js基础章节预览
@@ -69,3 +73,37 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 它是一个构建在React之上的框架，允许您在服务器上呈现内容，从而使您能够灵活地构建可伸缩的应用程序。
 
 Next.js被成为生产级React框架，您可以选择在浏览器的客户端上呈现一个页面，但选择在另一个页面的服务器上执行其他操作，Next.js真的很灵活(flexiable)，这就是为什么能够构建真正可伸缩和高性能的应用程序。
+
+## 005. Next.js的好处是什么
+
+### 概述
+
+Next.js的好处分为以下几点:
+
+- 不同的渲染技术
+- 性能
+- 基于文件路由
+- 搜索引擎优化
+- 无服务器功能
+
+![Next.js的好处](resources\images\005\01.png)
+
+### 不同的渲染技术
+
+1. 静态站点生成
+
+如果你有很多营销内容、博客文章，那么您将希望我们使用静态站点生成，它所处理的事情就是将你所有的内容预先构建在服务器上，然后服务器将把这些内容传递给客户端，所有这些内容都是预先构建的并被缓存，所以客户端基本上是一遍又一遍地获取缓存的内容，所以会得到巨大的性能提升。
+
+2. 服务端渲染
+
+我们可以在服务器上生成站点，如果您希望在页面刷新时更新数据(即服务器端呈现)，您正在服务器上呈现内容，但每次刷新页面时将会渲染内容并再次获取数据。
+
+3. 增量站点再生
+
+这是一项两全其美的技术，你将得到静态站点生成并在增量站点生成中使用服务端渲染。
+
+可以提前生成页面，作为构建过程的一部分，但也可以重新获取新数据，就像在服务器端渲染一样。
+
+> 构建领域专业知识体系结构应用程序(Build that domain expertise architecture applications)
+
+![不同的渲染技术](resources\images\005\02.png)
