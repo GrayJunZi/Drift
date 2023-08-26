@@ -149,3 +149,9 @@ SEO是搜索引擎优化(Search Engine Optimization)的缩写，本质上是爬�
 5. 显示页面到搜索引擎中。
 
 ![SEO](resources\images\008\02.png)
+
+## 009. 无服务器功能
+
+使用服务器功能可以在相同的代码库中运行Node.js代码，它都位于Pages目录中，现在API文件夹中的任何内容都会自动匹配路由因为已经配置了Node.js服务，我们可以在不进行任何配置的情况下完成这些功能。
+
+![无服务器功能](resources\images\009\01.png)
