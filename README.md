@@ -252,3 +252,18 @@ yarn add next@12
 - 本地ES模块支持 - 与标准化模块系统保持一致。
 - URL导入(alpha) - 从任何URL导入软件包，无需安装。
 - React服务器组件 (alpha) - 包括SSR流媒体。
+
+## 017. Next.js 项目预设
+
+- package.json - 包含脚本命令与依赖项两部分。
+- node_modules - 所有依赖包
+- pages
+    - api - 后端 api
+    - _app.js - 入口
+    - index.js - 默认路由 localhost:3000/
+- public
+    - 所有静态资源
+- styles
+    - global.css - 全局样式，将应用于整个应用程序的样式
+    - Home.module.css - CSS模块，该CSS文件将根据其文件名自动与特定组件相关联。
+- .next - 自动生成
