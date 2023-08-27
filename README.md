@@ -239,3 +239,5 @@ npm install next@12
 ```bash
 yarn add next@12
 ```
+
+## 015. 破坏性的变化
