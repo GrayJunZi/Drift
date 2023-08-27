@@ -184,6 +184,42 @@ Next.js有非常强大的开发人员社区，可以处理很多复杂的事情�
 
 ```bash
 npx create-next-app
-#或
-yarn create-next-app
+```
+
+或使用 yarn
+
+```bash
+yarn create next-app
+```
+
+进入 `discoveer-coffee-stores` 文件夹使用以下命令运行项目:
+
+```bash
+npm run dev
+```
+
+## 013. 如何升级Next.js版本
+
+运行以下命令进行升级React包:
+
+```bash
+npm install react@latest react-dom@latest
+```
+
+或使用 yarn
+
+```bash
+yarn add react@latest react-dom@latest
+```
+
+运行以下命令进行升级Next.js包:
+
+```bash
+npm install next@latest
+```
+
+或使用 yarn
+
+```bash
+yarn add next@latest
 ```
