@@ -241,3 +241,14 @@ yarn add next@12
 ```
 
 ## 015. 破坏性的变化
+
+## 016. Next.js 12 特性
+
+- Rust编译器 - ~3倍快速刷新和~5倍快速构建。
+- 中间件(beta) - 在Nextjs中实现代码优于配置的充分灵活性。
+- React 18支持 - 现在支持原生NextisAPI以及悬念。
+- '<image/> AVIF支持 - 选择加入20%的小图片。
+- Bot-aware ISR Fallback - 优化搜索引擎优化的网络爬虫。
+- 本地ES模块支持 - 与标准化模块系统保持一致。
+- URL导入(alpha) - 从任何URL导入软件包，无需安装。
+- React服务器组件 (alpha) - 包括SSR流媒体。
