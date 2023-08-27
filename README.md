@@ -223,3 +223,19 @@ npm install next@latest
 ```bash
 yarn add next@latest
 ```
+
+## 014. 升级Next.js版本到12
+
+> 因本身使用最新版本将跳过该命令
+
+指定Next.js版本为12
+
+```bash
+npm install next@12
+```
+
+或使用 yarn
+
+```bash
+yarn add next@12
+```
