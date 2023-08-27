@@ -267,3 +267,15 @@ yarn add next@12
     - global.css - 全局样式，将应用于整个应用程序的样式
     - Home.module.css - CSS模块，该CSS文件将根据其文件名自动与特定组件相关联。
 - .next - 自动生成
+
+## 018. 添加页脚组件
+
+在 `_app.js` 添加页脚 将应用于所有页面。
+```js
+export default function App({ Component, pageProps }) {
+  return <div>
+    <Component {...pageProps} />
+    <footer>Copyright &copy; 2023</footer>
+  </div>;
+}
+```
