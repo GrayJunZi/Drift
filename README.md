@@ -279,3 +279,7 @@ export default function App({ Component, pageProps }) {
   </div>;
 }
 ```
+
+## 019. 什么是快速刷新(What is Fast Refresh)
+
+快速刷新是一个特性，它为您在应用程序中所作的任何编辑提供即时反馈，这意味着如果我去我的代码库进行任何更改，转到运行应用程序的浏览器，这些变化将立即得到应用，无需重新加载应用程序。
