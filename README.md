@@ -35,7 +35,7 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 - 投资组合
 - Netflix
 
-## 002. 课程大纲
+## 002. 课程大纲(Next.js Couse Outline)
 
 本课程涵盖的Next.js路线图如下: 
 
@@ -54,7 +54,7 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 
 # 二、Next.js基础(Next.js Fundamentals)
 
-## 003. Next.js基础章节预览
+## 003. Next.js基础章节预览(Section Overview)
 
 我们需要了解技术为什么存在？它们试图解决什么问题？即使本课程学习完成之后，也能更好地判断事物，并能够构建好您的应用程序。
 
@@ -68,13 +68,13 @@ Learn Next JS from industry experts using modern best practices. The only Next J
 2. 使用Next.js有什么好处
 3. 为什么Next.js如此受欢迎。
 
-## 004. 什么是Next.js
+## 004. 什么是Next.js(What is Next.js)
 
 它是一个构建在React之上的框架，允许您在服务器上呈现内容，从而使您能够灵活地构建可伸缩的应用程序。
 
 Next.js被成为生产级React框架，您可以选择在浏览器的客户端上呈现一个页面，但选择在另一个页面的服务器上执行其他操作，Next.js真的很灵活(flexiable)，这就是为什么能够构建真正可伸缩和高性能的应用程序。
 
-## 005. Next.js的好处是什么
+## 005. Next.js的好处是什么(Benefits of Next.js and Difference Rendering Techniques)
 
 ### 概述
 
@@ -108,7 +108,7 @@ Next.js的好处分为以下几点:
 
 ![不同的渲染技术](resources\images\005\02.png)
 
-## 006. 性能
+## 006. 性能(Performance with Next.js)
 
 构建高性能应用程序是非常困难的，Next.js处理了很多复杂的事情，所以不必太担心性能问题，有一些助于提高性能的特性是开箱即用的(out of the box)。
 
@@ -121,11 +121,11 @@ Next.js的好处分为以下几点:
 
 ![性能](resources\images\006\01.png)
 
-## 007. 图像组件
+## 007. 图像组件(Image Component in Next.js)
 
 Next.js 的图像组件会根据不同视口的分辨率而加载对应大小的图片。
 
-## 008. 基于文件的路由与SEO
+## 008. 基于文件的路由与SEO(File Based Routing and SEO)
 
 ### 基于文件的路由
 
@@ -150,19 +150,19 @@ SEO是搜索引擎优化(Search Engine Optimization)的缩写，本质上是爬�
 
 ![SEO](resources\images\008\02.png)
 
-## 009. 无服务器功能
+## 009. 无服务器功能(Serverless Functions in Next.js)
 
 使用服务器功能可以在相同的代码库中运行Node.js代码，它都位于Pages目录中，现在API文件夹中的任何内容都会自动匹配路由因为已经配置了Node.js服务，我们可以在不进行任何配置的情况下完成这些功能。
 
 ![无服务器功能](resources\images\009\01.png)
 
-## 010. Next.js为什么流行
+## 010. Next.js为什么流行(Next.js vs Create React App)
 
 Next.js有非常强大的开发人员社区，可以处理很多复杂的事情。而使用React创建应用程序时，需要添加许多不同的包，掌握大量不同领域的知识，比如性能、SEO，而且需要学习很多配置，而在Next.js这些事情将由它处理，我们只关心我们需要做的东西就可以。
 
 # 三、构建第一个Next.js应用 | Coffee Connoisseur
 
-## 011. 项目预览
+## 011. 项目预览(Project overview)
 
 我们将开发以一个名为咖啡鉴赏家的应用程序，该项目会涵盖所有的基础知识。
 
@@ -176,7 +176,7 @@ Next.js有非常强大的开发人员社区，可以处理很多复杂的事情�
 
 ![商店详情](resources\images\011\03.png)
 
-## 012. 创建Next.js项目
+## 012. 创建Next.js项目(Create a Next.js app Zero Config)
 
 `create-next-app` 是一个简单的cli工具，能够快速开始构建新的Next.js应用程序。
 
@@ -198,7 +198,7 @@ yarn create next-app
 npm run dev
 ```
 
-## 013. 如何升级Next.js版本
+## 013. 如何升级Next.js版本(How to Upgrade Your Next.js Version)
 
 运行以下命令进行升级React包:
 
@@ -224,7 +224,7 @@ npm install next@latest
 yarn add next@latest
 ```
 
-## 014. 升级Next.js版本到12
+## 014. 升级Next.js版本到12(Upgrade to Next.js 12)
 
 > 因本身使用最新版本将跳过该命令
 
@@ -240,9 +240,9 @@ npm install next@12
 yarn add next@12
 ```
 
-## 015. 破坏性的变化
+## 015. 破坏性的变化(Next.js Version Breaking Changes)
 
-## 016. Next.js 12 特性
+## 016. Next.js 12 特性(Features of Next.js)
 
 - Rust编译器 - ~3倍快速刷新和~5倍快速构建。
 - 中间件(beta) - 在Nextjs中实现代码优于配置的充分灵活性。
@@ -253,7 +253,7 @@ yarn add next@12
 - URL导入(alpha) - 从任何URL导入软件包，无需安装。
 - React服务器组件 (alpha) - 包括SSR流媒体。
 
-## 017. Next.js 项目预设
+## 017. Next.js 项目预设(Next.js setup project walkthrough)
 
 - package.json - 包含脚本命令与依赖项两部分。
 - node_modules - 所有依赖包
@@ -268,7 +268,7 @@ yarn add next@12
     - Home.module.css - CSS模块，该CSS文件将根据其文件名自动与特定组件相关联。
 - .next - 自动生成
 
-## 018. 添加页脚组件
+## 018. 添加页脚组件(_app.js Solution with Footer)
 
 在 `_app.js` 添加页脚 将应用于所有页面。
 ```js
@@ -283,3 +283,9 @@ export default function App({ Component, pageProps }) {
 ## 019. 什么是快速刷新(What is Fast Refresh)
 
 快速刷新是一个特性，它为您在应用程序中所作的任何编辑提供即时反馈，这意味着如果我去我的代码库进行任何更改，转到运行应用程序的浏览器，这些变化将立即得到应用，无需重新加载应用程序。
+
+## 020. 什么是CSS模块(What are CSS Modules)
+
+CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`的文件都是一个CSS模块(这是惯例)。
+
+使用CSS模块的好处是，这个文件可用的CSS代码全是主组件的作用域，例如 `Home.module.css` 的作用域，被限制在Home组件范围内。
