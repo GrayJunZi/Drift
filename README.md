@@ -289,3 +289,6 @@ export default function App({ Component, pageProps }) {
 CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`的文件都是一个CSS模块(这是惯例)。
 
 使用CSS模块的好处是，这个文件可用的CSS代码全是主组件的作用域，例如 `Home.module.css` 的作用域，被限制在Home组件范围内。
+
+## 021. Home页面(Let's get ready for Home Page)
+
