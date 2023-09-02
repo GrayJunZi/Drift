@@ -292,3 +292,6 @@ CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`
 
 ## 021. Home页面(Let's get ready for Home Page)
 
+## 022. App背景(App background)
+
+可以通过 [Mesh Gradient](https://meshgradient.com) 网站定制渐变色。
