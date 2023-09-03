@@ -317,3 +317,19 @@ Next.js是基于文件系统的路由。
 ## 027. 为咖啡商店页添加路由(Add Routing for Coffee Store Page)
 
 Pages文件夹中的任何嵌套文件基本上都是嵌套路由。
+
+## 028. 什么是动态路由(What is Dynamic Routing)
+
+动态路由允许您定义可以是动态的路由，我们使用中括号语法来定义路由中特定的值，使用`useRouter`获取路由中的动态数据。
+
+```js
+import { useRouter } from "next/router";
+
+const CoffeeStore = () => {
+    const router = useRouter();
+    console.log('router', router);
+    return <div>Coffee Store Page {router.query.id}</div>;
+};
+
+export default CoffeeStore;
+```
