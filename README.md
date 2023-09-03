@@ -334,10 +334,13 @@ const CoffeeStore = () => {
 export default CoffeeStore;
 ```
 
-## 029. 使用Link组件添加路由(Add route using Link Component)
+## 029. 使用Link组件添加路由(Add routes using Link Component)
 
 链接本质上是用户可以来回路由的一种方式，它们链接到不同的页面。
 
 如果我们没有实现Next.js的链接，甚至只使用react，纯HTML可以使用锚元素(anchor) 通常被称为`a`标签，它允许创建超链接，这将允许您链接到不同的页面，我们需要做的事就是使用`href`并提供希望它路由到的地址。
 
 Next.js为我们提供了一个名为`Link`的`react`组件，允许我们轻松改变路由，Link组件类似于锚元素，但它为我们提供了更多的开箱即用的功能，
+
+## 030. 使用Link组件添加路由到动态页面(Add routes to Dynamic Page with Link Component)
+
