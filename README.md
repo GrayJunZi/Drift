@@ -294,4 +294,8 @@ CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`
 
 ## 022. App背景(App background)
 
-可以通过 [Mesh Gradient](https://meshgradient.com) 网站定制渐变色。
+可以通过 [Mesh Gradient](https://meshgradient.com) 网站定制渐变色图片。
+
+## 023. Banner组件(Banner Component)
+
+![Banner组件](resources\images\023\01.png)
