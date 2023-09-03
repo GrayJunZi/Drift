@@ -10,7 +10,7 @@ export default function Home() {
   };
 
   return (
-    <>
+    <div className={styles.container}>
       <Head>
         <title>Coffee Connoisseur</title>
         <link rel="icon" href="/favicon.ico" />
@@ -18,6 +18,6 @@ export default function Home() {
       <main className={styles.main}>
         <Banner buttonText="View stores nearby" handleOnClick={handleOnBannerBtnClick} />
       </main>
-    </>
+    </div>
   );
 }
