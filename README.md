@@ -299,3 +299,7 @@ CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`
 ## 023. Banner组件(Banner Component)
 
 ![Banner组件](resources\images\023\01.png)
+
+## 024. 移动端优先开发&Banner组件样式(Mobile First Development & Banner Component Styling)
+
+![Banner组件](resources\images\024\01.png)
