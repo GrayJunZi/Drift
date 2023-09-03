@@ -344,3 +344,5 @@ Next.js为我们提供了一个名为`Link`的`react`组件，允许我们轻松
 
 ## 030. 使用Link组件添加路由到动态页面(Add routes to Dynamic Page with Link Component)
 
+## 031. 路由解决方案(Solution Routing)
+
