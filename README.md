@@ -313,3 +313,7 @@ CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`
 Next.js是基于文件系统的路由。
 
 ![Routing](resources\images\026\01.png)
+
+## 027. 为咖啡商店页添加路由(Add Routing for Coffee Store Page)
+
+Pages文件夹中的任何嵌套文件基本上都是嵌套路由。
