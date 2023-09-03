@@ -306,3 +306,10 @@ CSS Modules 是由Next.js开箱即用提供的，任何具有后缀`.module.css`
 
 ## 025. Head组件(Next.js Head Component)
 
+# 四、Next.js路由(Project #1: Routing with Next.js)
+
+## 026. 在Next.js中的路由(Routing in Next.js)
+
+Next.js是基于文件系统的路由。
+
+![Routing](resources\images\026\01.png)
