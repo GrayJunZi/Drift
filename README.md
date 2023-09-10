@@ -348,3 +348,9 @@ Next.js为我们提供了一个名为`Link`的`react`组件，允许我们轻松
 
 ## 032. Home页样式(Style our homepage)
 
+## 033. Hero图片生成器(Hero Image Generator)
+
+Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner Image)。
+
+- [icons8](https://icons8.com) - 免费插图工具。
+- [Mega Creator](https://icons8.com/.mega-creator/) - 制作自己的图像。
