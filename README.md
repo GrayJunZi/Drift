@@ -346,3 +346,5 @@ Next.js为我们提供了一个名为`Link`的`react`组件，允许我们轻松
 
 ## 031. 路由解决方案(Solution Routing)
 
+## 032. Home页样式(Style our homepage)
+
