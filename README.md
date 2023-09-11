@@ -357,3 +357,6 @@ Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner I
 
 ## 034. 添加Hero组件(Add Hero Component)
 
+## 035. Image组件(Next.js Image Component)
+
+图像组件的本质是调整图像的大小并优化它们，会体现在不同的尺寸提供最优化的图像。
