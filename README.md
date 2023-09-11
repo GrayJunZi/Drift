@@ -354,3 +354,6 @@ Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner I
 
 - [icons8](https://icons8.com) - 免费插图工具。
 - [Mega Creator](https://icons8.com/.mega-creator/) - 制作自己的图像。
+
+## 034. 添加Hero组件(Add Hero Component)
+
