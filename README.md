@@ -361,5 +361,8 @@ Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner I
 
 图像组件的本质是调整图像的大小并优化它们，会体现在不同的尺寸提供最优化的图像。
 
-## 036. 首页图像(Hero Image on Home Page)
+## 036. Home页图像(Hero Image on Home Page)
 
+## 037. 设置字体(Setup fonts in Next.js)
+
+通过 https://fonts.google.com 网站下载字体，放至 `public` 文件夹下。
