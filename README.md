@@ -366,3 +366,7 @@ Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner I
 ## 037. 设置字体(Setup fonts in Next.js)
 
 通过 https://fonts.google.com 网站下载字体，放至 `public` 文件夹下。
+
+## 038. 加载字体(Load fonts on the page)
+
+我们可以把加载字体放置到 `_app.js` 中，这样任何公共组件都会起效。
