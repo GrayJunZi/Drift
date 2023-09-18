@@ -346,6 +346,8 @@ Next.js为我们提供了一个名为`Link`的`react`组件，允许我们轻松
 
 ## 031. 路由解决方案(Solution Routing)
 
+# 五、Next.js中的样式(Project #1: Styling in Next.js)
+
 ## 032. Home页样式(Style our homepage)
 
 ## 033. Hero图片生成器(Hero Image Generator)
@@ -374,3 +376,15 @@ Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner I
 ## 039. Next.js中的Document(Document in Next.js)
 
 Next.js中提供了 `Document` 来操作我们的html文档，在 `pages`文件夹下添加`_document.js`文件。
+
+## 040. 在Document中应用字体(Apply fonts in Document)
+
+```html
+<link
+    -- relationship 
+    rel="preload" -- 预加载: 告诉浏览器去预加载这个资源
+    href="/fonts/IBMPlexSans-Regular.ttf" -- 连接字体资源
+    as="fint" -- 只有使用 rel="preload" 时才会设置必要字体头
+    crossOrigin="anonymous" -- 不需要认证
+/>
+```
