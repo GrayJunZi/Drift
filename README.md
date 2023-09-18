@@ -370,3 +370,7 @@ Hero Image 本质上代表了在网页上使用的一个大横幅图像(Banner I
 ## 038. 加载字体(Load fonts on the page)
 
 我们可以把加载字体放置到 `_app.js` 中，这样任何公共组件都会起效。
+
+## 039. Next.js中的Document(Document in Next.js)
+
+Next.js中提供了 `Document` 来操作我们的html文档，在 `pages`文件夹下添加`_document.js`文件。
