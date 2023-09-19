@@ -396,3 +396,10 @@ Next.js中提供了 `Document` 来操作我们的html文档，在 `pages`文件�
 SEO代表搜索引擎优化(Search Engine Optimization)，它本质上是一种提高流量质量和网站数量的做法。
 
 ![SEO](resources\images\041\01.png)
+
+## 042. Next.js中的预渲染(Pre-rendering in Next.js)
+
+Next.js应用程序和普通React应用程序之间最大的优势是我们可以马上看到页面，爬虫机器人可以很快发现页面及内容，并能够正确地对其进行排名，所以这对于预渲染说非常重要，因为它会带来更好的性能。作为用户请求页面时，那个页面会很快加载 因为元素已经提前呈现了，因此得到了更好的性能。
+
+![Pre-rendering](resources\images\042\01.png)
+
