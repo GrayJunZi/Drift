@@ -388,3 +388,11 @@ Next.js中提供了 `Document` 来操作我们的html文档，在 `pages`文件�
     crossOrigin="anonymous" -- 不需要认证
 />
 ```
+
+# 六、Next.js中的Hydration、SEO和不同的渲染技术 (Hydration, SEO and Different Rendering Techniques in Next.js)
+
+## 041. 什么是SEO(What is SEO)
+
+SEO代表搜索引擎优化(Search Engine Optimization)，它本质上是一种提高流量质量和网站数量的做法。
+
+![SEO](resources\images\041\01.png)
